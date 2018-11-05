@@ -4,7 +4,7 @@
 [![Docker Automation](https://img.shields.io/docker/automated/flavioaiello/oauth2-proxy.svg)](https://hub.docker.com/r/flavioaiello/oauth2-proxy/)
 
 # oauth2-proxy
-This one checks out the latest release of the great [bitly oauth2 proxy](https://github.com/bitly/oauth2_proxy) and creates a scratch based container image based.
+This one checks out the latest release of the great [bitly oauth2 proxy](https://github.com/bitly/oauth2_proxy) and creates a scratch based container image.
 
 ## Default
 ```

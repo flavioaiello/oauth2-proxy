@@ -8,6 +8,6 @@ This one checks out the latest release of the great [bitly oauth2 proxy](https:/
 
 ## Default
 ```
-    --upstream=http://0.0.0.0:8080/
-    --http-address=0.0.0.0:4180
+--upstream=http://0.0.0.0:8080/
+--http-address=0.0.0.0:4180
 ```

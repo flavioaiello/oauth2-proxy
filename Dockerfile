@@ -10,7 +10,7 @@ RUN set -ex ;\
     CGO_ENABLED=0 GOOS=linux go build -v -o /files/usr/local/bin/oauth2_proxy;\
     echo "*** add proxy user ***";\
     mkdir /files/etc;\
-    grep proxy /etc/passwd > /files/etc/passwd;\
+    grep proxy /etc/passwd > /files/etc/passwd
 
 ### runtime build ###
 FROM scratch

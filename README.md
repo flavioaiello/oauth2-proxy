@@ -1,5 +1,3 @@
-[![Docker Build Status](https://img.shields.io/docker/build/flavioaiello/oauth2-proxy.svg)](https://hub.docker.com/r/flavioaiello/oauth2-proxy/)
-[![Docker Stars](https://img.shields.io/docker/stars/flavioaiello/oauth2-proxy.svg)](https://hub.docker.com/r/flavioaiello/oauth2-proxy/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/flavioaiello/oauth2-proxy.svg)](https://hub.docker.com/r/flavioaiello/oauth2-proxy/)
 [![Docker Automation](https://img.shields.io/docker/automated/flavioaiello/oauth2-proxy.svg)](https://hub.docker.com/r/flavioaiello/oauth2-proxy/)
 
